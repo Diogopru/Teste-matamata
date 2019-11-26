@@ -1,0 +1,5 @@
+C:\Users\Diogo\Documents\SharpDevelop Projects\mata mata\mata mata\bin\Debug\mata mata.exe
+C:\Users\Diogo\Documents\SharpDevelop Projects\mata mata\mata mata\bin\Debug\mata mata.pdb
+C:\Users\Diogo\Documents\SharpDevelop Projects\mata mata\mata mata\obj\Debug\mata mata.csprojResolveAssemblyReference.cache
+C:\Users\Diogo\Documents\SharpDevelop Projects\mata mata\mata mata\obj\Debug\mata mata.exe
+C:\Users\Diogo\Documents\SharpDevelop Projects\mata mata\mata mata\obj\Debug\mata mata.pdb
